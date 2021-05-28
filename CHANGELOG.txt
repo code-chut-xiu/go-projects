@@ -1,3 +1,4 @@
 05/28/2021
     . Added working http-server.go
     . Added working context-in-http-server.go
+    . Added structs and pointers.go files
